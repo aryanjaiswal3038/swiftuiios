@@ -1,0 +1,28 @@
+PODS:
+  - PayUIndia-3DS2-SDK (1.0.0-alpha.3):
+    - PayUIndia-3DS2Core-SDK (~> 1.0.0-alpha.2)
+    - PayUIndia-CrashReporter (= 3.0.0-alpha)
+    - PayUIndia-NetworkReachability (~> 1.0)
+  - PayUIndia-3DS2Core-SDK (1.0.0-alpha.2)
+  - PayUIndia-CrashReporter (3.0.0-alpha)
+  - PayUIndia-NetworkReachability (1.0.1)
+
+DEPENDENCIES:
+  - PayUIndia-3DS2-SDK (= 1.0.0-alpha.3)
+
+SPEC REPOS:
+  trunk:
+    - PayUIndia-3DS2-SDK
+    - PayUIndia-3DS2Core-SDK
+    - PayUIndia-CrashReporter
+    - PayUIndia-NetworkReachability
+
+SPEC CHECKSUMS:
+  PayUIndia-3DS2-SDK: a9d3b1f45f73a33848c7d13ee8a375d9439c533a
+  PayUIndia-3DS2Core-SDK: 905f0dadb6c8d22f63f27ce686f432acde9f40c0
+  PayUIndia-CrashReporter: bd33844a6f5c3e240c60998b486d8cd64d634cfb
+  PayUIndia-NetworkReachability: 99e69781b3be99d7b713075ab7b73e6d73a153e4
+
+PODFILE CHECKSUM: 087c04c587b825f27234c39f1289d52ef64af18a
+
+COCOAPODS: 1.11.3
